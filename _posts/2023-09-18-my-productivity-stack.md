@@ -7,7 +7,7 @@ categories: general
 
 # My Productivity Stack
 
-I was recently asked what tools I use to be productive during my workday, my "Productivity stack". Staying organized and focused is essential for me. I wanted to share how these six applications are absolute game-changers for me. 🙌
+Over on Linkedin, I was recently asked what tools I use to be productive during my workday, my "Productivity stack". I posted over there, but I thought that I would go a little longer on some of the applications I use daily.  🙌
 
 ## 📸 [CleanShot X](http://cleanshot.com)
 
