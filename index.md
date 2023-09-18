@@ -21,3 +21,9 @@ Somethings I will post here, will be IT/Computing focsed, some things will be mo
 - Profesional Development
 
 > Note: My main cloud is Azure and you won't find much about other cloud platforms here.
+
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
