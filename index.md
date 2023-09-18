@@ -25,5 +25,4 @@ Somethings I will post here, will be IT/Computing focsed, some things will be mo
 <div class="blog-index">  
   {% assign post = site.posts.first %}
   {% assign content = post.content %}
-  {% include post_detail.html %}
 </div>
