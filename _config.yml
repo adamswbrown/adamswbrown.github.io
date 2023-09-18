@@ -23,6 +23,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll/footnotes 
 
 titles_from_headings:
   strip_title: true
